@@ -1,0 +1,4 @@
+#Thu Jun 15 12:30:38 TRT 2023
+base.0=/Users/tolganalbant/Desktop/Flutter/RickAndMortyApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

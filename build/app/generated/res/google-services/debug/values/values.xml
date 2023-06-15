@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">832260206306-oum0m9jmamtdcpck7omufaph01usd1dd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">832260206306</string>
+    <string name="google_api_key" translatable="false">AIzaSyA6VwiSdUS6A1PMiMcTa5D_VyZ1sFcGnSE</string>
+    <string name="google_app_id" translatable="false">1:832260206306:android:98c264821d65e3ffaff8bb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA6VwiSdUS6A1PMiMcTa5D_VyZ1sFcGnSE</string>
+    <string name="google_storage_bucket" translatable="false">rickandmorty-988ca.appspot.com</string>
+    <string name="project_id" translatable="false">rickandmorty-988ca</string>
+</resources>
